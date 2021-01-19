@@ -1,3 +1,5 @@
+title: "SchoolVM Official"
+
 ## SchoolVM Official Website!
 
 **Welcome to our website!**
