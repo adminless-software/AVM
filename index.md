@@ -5,9 +5,9 @@
 
 Instant Links:
 
-[Purchare Info Page](https://schoolvm.github.io/SchoolVirtualMachine/information/
+[Purchare Info Page](https://schoolvm.github.io/SchoolVirtualMachine/information/)
 
-[Support Page](https://schoolvm.github.io/SchoolVirtualMachine/support/
+[Support Page](https://schoolvm.github.io/SchoolVirtualMachine/support/)
 
 **News**
 
