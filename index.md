@@ -5,9 +5,9 @@
 
 Instant Links:
 
-[Information](permalink: /information.md/information/)
+[Information](/information.md/information/)
 
-[Support](permalink: /support.md/support)
+[Support](/support.md/support)
 
 
 **News**
