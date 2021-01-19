@@ -7,6 +7,9 @@
 [Github Repository](https://github.com/schoolvm/schoolvm/)
 
 
+[Source Code](https://github.com/schoolvm/schoolvm/releases/)
+
+
 This will have downloads to all of our files and more!
 
 You simply download the file, and run (PAID) Download.cmd!
