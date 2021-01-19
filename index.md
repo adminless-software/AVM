@@ -21,4 +21,4 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/schoolvm/schoolvm/releases/tag/1.2) and ![Image](src)
+[Link](https://github.com/schoolvm/schoolvm/releases/tag/1.2)
