@@ -1,5 +1,3 @@
-title: "SchoolVM Official"
-
 ## SchoolVM Official Website!
 
 **Welcome to our website!**
@@ -7,9 +5,10 @@ title: "SchoolVM Official"
 
 Instant Links:
 
-[Purchare Info Page](https://schoolvm.github.io/SchoolVirtualMachine/information.md/information)
+[Information](permalink: /information.md/information/)
 
-[Support Page](https://schoolvm.github.io/SchoolVirtualMachine/support.md/support)
+[Support](permalink: /support.md/support)
+
 
 **News**
 
