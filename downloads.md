@@ -1,6 +1,6 @@
 layout: page
 title: "Basic Information"
-permalink: /information/
+permalink: /information.md/information/
 
 
 
