@@ -9,6 +9,8 @@ Instant Links:
 
 [Support](support.md)
 
+[About](about.md)
+
 **News**
 
 Join our IN PROGRESS Discord! It will have a lot of info on SchoolVM!
