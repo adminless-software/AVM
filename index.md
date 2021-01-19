@@ -5,10 +5,9 @@
 
 Instant Links:
 
-[Information](/information.md/information/)
+[Information](downloads.md)
 
-[Support](/support.md/support)
-
+[Support](support.md)
 
 **News**
 
