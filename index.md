@@ -1,24 +1,16 @@
-## Website Branch.
+## SchoolVM Official Website!
 
-Welcome to our github website!
 
-### Markdown
+**Welcome to our website!**
+
+
+[Github Repository](https://github.com/schoolvm/schoolvm/)
+
 
 This will have downloads to all of our files and more!
 
-```markdown
-Syntax highlighted code block
+You simply download the file, and run (PAID) Download.cmd!
+Then run (PAID) Disk Creation Tool.cmd
+Then you simply start (PAID) SchoolVM 1.2.cmd and it should launch!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://github.com/schoolvm/schoolvm/releases/tag/1.2)
+[Download SchoolVM 1.2](https://github.com/schoolvm/schoolvm/releases/download/1.2/SchoolVM.1.2.zip)
