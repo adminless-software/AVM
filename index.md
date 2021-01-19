@@ -40,9 +40,21 @@ We will have a deditcated discord account **coming soon** as well!
 
 If you would like to help, or would like to contribute and donate, contact thenstop#0379 on discord!
 
-**How to run the Virtual Machine**
+**FAQ (Frequently Asked Questions)**
 
-You simply download the file, and run (Pro+) Download.cmd!
+**Is this real?**
+
+Of course it is! I have been working on this project for almost a month.
+
+
+**How do I pay?**
+
+You can pay me by in person or by sending me the amount of the package that you want on PayPal, my PayPal email is 666numberboi@gmail.com
+
+
+**How to run the Virtual Machine?**
+
+You simply download the file, and run (Basic+) Download.cmd!
 Then run (Pro+) Disk Creation Tool.cmd
 Then you simply start (Basic+) SchoolVM 1.2.cmd and it should launch!
 
@@ -51,4 +63,4 @@ Then you simply start (Basic+) SchoolVM 1.2.cmd and it should launch!
 
 
 
-Copyright Levi Chavez ©, 2021 All rights reserved ®
+Copyright Levi Chavez©, 2021 All rights reserved®
