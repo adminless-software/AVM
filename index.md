@@ -30,7 +30,6 @@ Then you simply start (PAID) SchoolVM 1.2.cmd and it should launch!
 
 **Downloads**
 
-[Download SchoolVM 1.2](https://github.com/schoolvm/schoolvm/releases/download/1.2/SchoolVM.1.2.zip)
-
+**You must pay for SchoolVM to use it!**
 
 Copyright Levi Chavez ©, 2021 All rights reserved.®
