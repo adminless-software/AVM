@@ -45,7 +45,7 @@ If you would like to help, or would like to contribute and donate, contact thens
 
 **FAQ (Frequently Asked Questions)**
 
-How can you make websites and apps?
+**How can you make websites and apps?**
 
 I use IExpress.exe and Windows batch files to do all of my apps! Also I use GitHub to create websites and more.
 
