@@ -1,5 +1,5 @@
 layout: page
-title: "Basic Information"
+title: "Purchase Information"
 permalink: /information/
 
 
