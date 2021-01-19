@@ -25,19 +25,11 @@ We will have a deditcated discord account **coming soon** as well!
 
 If you would like to help, or would like to contribute and donate, contact thenstop#0379 on discord!
 
-**Source Code**
-
-[Source Code](https://github.com/schoolvm/schoolvm/releases/)
-
-This will have downloads to all of our files, old buggy releases and more!
-
 **How to run the Virtual Machine**
 
 You simply download the file, and run (PAID) Download.cmd!
 Then run (PAID) Disk Creation Tool.cmd
 Then you simply start (PAID) SchoolVM 1.2.cmd and it should launch!
-
-**Downloads**
 
 **You must pay for SchoolVM to use it!**
 
