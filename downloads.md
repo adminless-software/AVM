@@ -1,8 +1,4 @@
-layout: page
-title: "Basic Information"
-permalink: /information.md/information/
-
-
+This is basic infomation about the different tiers of SchoolVM!
 
 Basic only includes 1 disk and 1 virtual machine along with simple commands and support. 19.99$
 
