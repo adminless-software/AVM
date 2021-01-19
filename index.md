@@ -2,6 +2,13 @@
 
 **Welcome to our website!**
 
+
+Instant Links:
+
+[Purchare Info Page](https://schoolvm.github.io/SchoolVirtualMachine/information/
+
+[Support Page](https://schoolvm.github.io/SchoolVirtualMachine/support/
+
 **News**
 
 Join our IN PROGRESS Discord! It will have a lot of info on SchoolVM!
