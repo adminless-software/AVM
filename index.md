@@ -2,12 +2,15 @@
 
 **Welcome to our website!**
 
+------------------------------------------------------------------------------
 
 Instant Links:
 
 [Support](support.md)
 
 [About](about.md)
+
+------------------------------------------------------------------------------
 
 **News**
 
@@ -40,7 +43,7 @@ We will have a deditcated discord account **coming soon** as well!
 
 If you would like to help, or would like to contribute and donate, contact thenstop#0379 on discord!
 
-
+------------------------------------------------------------------------------
 
 
 **FAQ (Frequently Asked Questions)**
@@ -70,3 +73,10 @@ You can pay me by in person or by sending me the amount of the package that you 
 You simply download the file, and run (Basic+) Download.cmd!
 Then run (Pro+) Disk Creation Tool.cmd
 Then you simply start (Basic+) SchoolVM 1.2.cmd and it should launch!
+
+------------------------------------------------------------------------------
+
+Copyright © 2021 by Levi Chavez All rights reserved
+
+City: Hartville, Ohio
+Postal Code: 44632
