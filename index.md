@@ -40,7 +40,20 @@ We will have a deditcated discord account **coming soon** as well!
 
 If you would like to help, or would like to contribute and donate, contact thenstop#0379 on discord!
 
+
+
+
 **FAQ (Frequently Asked Questions)**
+
+How can you make websites and apps?
+
+I use IExpress.exe and Windows batch files to do all of my apps! Also I use GitHub to create websites and more.
+
+
+**How can you develop so fast?**
+
+I know Windows and Linux commands to the point where they are embedded inside my brain! I have used Windows and Linux a LONG time.
+
 
 **Is this real?**
 
@@ -57,10 +70,3 @@ You can pay me by in person or by sending me the amount of the package that you 
 You simply download the file, and run (Basic+) Download.cmd!
 Then run (Pro+) Disk Creation Tool.cmd
 Then you simply start (Basic+) SchoolVM 1.2.cmd and it should launch!
-
-
-
-
-
-
-Copyright Levi Chavez©, 2021 All rights reserved®
