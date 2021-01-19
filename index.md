@@ -6,13 +6,21 @@
 
 Join our IN PROGRESS Discord! It will have a lot of info on SchoolVM!
 
-[Discord Invite Link](https://discord.gg/24BzCrzJPH)
+[Discord Invite Link](https://discord.gg/invite/24BzCrzJPH)
+
+Also we will have other Social Network profiles such as Instagram, and twitter. **COMING SOON**
+
+Our discord and website will have support guides and more, and you also can look for guides on our other Social Pages to help you find what you need!
+
+We will have a deditcated discord account **coming soon** as well!
+
+If you would like to help, or would like to contribute and donate, contact thenstop#0379 on discord!
 
 **Source Code**
 
 [Source Code](https://github.com/schoolvm/schoolvm/releases/)
 
-This will have downloads to all of our files and more!
+This will have downloads to all of our files, old buggy releases and more!
 
 **How to run the Virtual Machine**
 
