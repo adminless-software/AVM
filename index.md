@@ -7,9 +7,9 @@ title: "SchoolVM Official"
 
 Instant Links:
 
-[Purchare Info Page](https://schoolvm.github.io/SchoolVirtualMachine/information/)
+[Purchare Info Page](https://schoolvm.github.io/SchoolVirtualMachine/information.md/information)
 
-[Support Page](https://schoolvm.github.io/SchoolVirtualMachine/support/)
+[Support Page](https://schoolvm.github.io/SchoolVirtualMachine/support.md/support)
 
 **News**
 
