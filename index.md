@@ -16,7 +16,7 @@ Instant Links:
 
 [Pay for SchoolVM](PayForSchoolVM.md)
 
-[News and Updates](news.md)
+[Frequently Asked Questions](FAQ.md)
 
 ------------------------------------------------------------------------------
 
