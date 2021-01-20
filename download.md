@@ -1,15 +1,8 @@
 
-
-
 Download Down Below!
 
+[Download](https://github.com/adminless-software/AVM/releases/download/1.5/Adminless.AVM.1.5.exe)
 
+Mirror Link:
 
-
-
-
-
-
-
-
-[Download](https://github.com/schoolvm/SchoolVirtualMachine/releases/download/1.4/SchoolVM.1.4.EXE)
+https://github.com/adminless-software/AVM/releases/download/1.5/Adminless.AVM.1.5.exe
