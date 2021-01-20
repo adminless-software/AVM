@@ -14,9 +14,9 @@ Instant Links:
 
 [About](about.md)
 
-[Pay for SchoolVM]
+[Pay for SchoolVM](PayForSchoolVM.md)
 
-[News and Updates]
+[News and Updates](news.md)
 
 ------------------------------------------------------------------------------
 
