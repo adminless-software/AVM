@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------------
 
+Buy SchoolVM Now!
+
+[Add SchoolVM to Cart](addcart.html)
+
+[Pay for SchoolVM](purchase.html)
+
+
+
 Instant Links:
 
 [Support](support.md)
