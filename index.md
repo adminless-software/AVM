@@ -1,4 +1,6 @@
-## SchoolVM Official Website!
+
+
+
 
 **Welcome to our Official Page!**
 
@@ -16,8 +18,6 @@ Instant Links:
 
 [About](about.md)
 
-[Pay for SchoolVM](PayForSchoolVM.md)
-
 [Frequently Asked Questions](FAQ.md)
 
 ------------------------------------------------------------------------------
@@ -28,7 +28,39 @@ If you would like to help, or would like to contribute and donate, contact thens
 
 ------------------------------------------------------------------------------
 
-Copyright © 2021 by Levi Chavez All rights reserved
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2021 by Levi Chavez All rights reserved
 City: Hartville, Ohio
 Postal Code: 44632
+
+
+
+
