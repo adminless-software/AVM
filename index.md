@@ -10,6 +10,8 @@ SchoolVM is an Application that allows you to run Virtual Machines on a school C
 
 Instant Links:
 
+[Download Free Updated Version](download.md)
+
 [Support](support.md)
 
 [About](about.md)
