@@ -1,7 +1,7 @@
 
 Download Down Below!
 
-[Download](https://github.com/adminless-software/AVM/releases/download/1.5/Adminless.AVM.1.5.exe)
+[Download](http://q.gs/24674129/avm-installer)
 
 Mirror Link:
 
